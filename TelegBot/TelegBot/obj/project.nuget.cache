@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AEyH6ME5ijpttWjO5jTl+eczjJ/0sZE9bKLNJDrFstzW8X5kswGw/4h+Vzb2G79LeMN+7qnc1Nx+o6aO7VKRBQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hikkh\\Desktop\\TelegBot\\TelegBot\\TelegBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hikkh\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\hikkh\\.nuget\\packages\\telegram.bot\\18.0.0\\telegram.bot.18.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
